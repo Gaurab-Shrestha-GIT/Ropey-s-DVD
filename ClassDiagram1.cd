@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GroupCoursework.Actor">
+    <Position X="2" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAQASAEIAEEAgAAgAAAEAPAAAA=</HashCode>
+      <FileName>Actor.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GroupCoursework.AssistantDashboard">
+    <Position X="6.75" Y="0.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAABAAIAAAQAAAAAAAAAIAAAA=</HashCode>
+      <FileName>AssistantDashboard.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GroupCoursework.AssistantDetails">
+    <Position X="7" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAgEAAAAAFAAAAAACgAIAAQUAAAgAAAAAMAAAA=</HashCode>
+      <FileName>AssistantDetails.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GroupCoursework.CastMember">
+    <Position X="2.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIEAAAAoAAAAEAAAAAASAAIAAAAAYAgAAAAAIAAAA=</HashCode>
+      <FileName>CastMember.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GroupCoursework.ChangePassword">
+    <Position X="4.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAEAAAAAACCAIAAAEAAQAAAAAAIAAAA=</HashCode>
+      <FileName>ChangeAssistantPassword.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GroupCoursework.ChangeManagerPassword">
+    <Position X="6.25" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAEAAAAAAAiAIAAAAAAQAAAAAAIAAAA=</HashCode>
+      <FileName>ChangeManagerPassword.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GroupCoursework.DVDCategory">
+    <Position X="0.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAlAAAAAAQAEIAAAAAAAggIAAAZAogA=</HashCode>
+      <FileName>DVDCategory.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GroupCoursework.DVDCopy">
+    <Position X="3.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAMAAAiAAAAEAAAAAAQAMIAECQAAAgAAAAAJCAAA=</HashCode>
+      <FileName>DVDCopy.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GroupCoursework.DVDTitle">
+    <Position X="5.25" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IQBAACgAAIAgAAGAAAAAAwAAIACAAAQAgAAAAAIAAEA=</HashCode>
+      <FileName>DVDTitle.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GroupCoursework.FeatureEight">
+    <Position X="7.25" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAEAAAAAAAAAIAAAAAAAgAAAAAIAAAA=</HashCode>
+      <FileName>FeatureEight.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GroupCoursework.FeatureEleven">
+    <Position X="7" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAEAAAAAAAAAIAAAAAAAgAAAAAIAAAA=</HashCode>
+      <FileName>FeatureEleven.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GroupCoursework.DetailsByCopyNumber">
+    <Position X="0.5" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAQAAAAAAAAAAEAAAAAAAAAIIAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>FeatureFive.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GroupCoursework.DVDCastLists">
+    <Position X="2.5" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAEAAAAAEAAAAAABgAIAAAYAAAgAAAAAIAAAA=</HashCode>
+      <FileName>FeatureFour.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GroupCoursework.ActorFilm">
+    <Position X="4.75" Y="18.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAQAMAAAAAAAAAAAAAAAIAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>FeatureOne.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GroupCoursework.FeatureThriteen">
+    <Position X="2.25" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAEAAAAAAAAAIAAAAAAAgAAAAAIAAAA=</HashCode>
+      <FileName>FeatureThriteen.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GroupCoursework.Loan">
+    <Position X="6" Y="23.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GAEwAAADCBACMAEAQIAAAQAAAMAQQBAEgAAAAgJAABA=</HashCode>
+      <FileName>Loan.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GroupCoursework.Login">
+    <Position X="1.25" Y="25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAgEAAAAAEAAAAABAAAIABQAAAAAAAAAAIAIAA=</HashCode>
+      <FileName>Login.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GroupCoursework.ManagerDashboard">
+    <Position X="3.75" Y="25.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAgAIAAAQAAAAAAAAAIAAAA=</HashCode>
+      <FileName>ManagerDashboard.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GroupCoursework.Member">
+    <Position X="7.75" Y="25.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAASQAIAgAAAQUgABAAgJAAEI=</HashCode>
+      <FileName>Member.aspx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
